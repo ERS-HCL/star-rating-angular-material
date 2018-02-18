@@ -2,7 +2,7 @@
 <p align="center">
     <img  alt="Star Rating" src="img/starRating.png" class="img-responsive">
 </p>
-To view demo, [click here](https://stackblitz.com/edit/angular-material-star-rating?embed=1&file=index.html&hideExplorer=1&hideNavigation=1&view=preview)
+To preview demo of to do list project, [Click here](https://stackblitz.com/edit/angular-material-star-rating?embed=1&file=index.html&hideExplorer=1&hideNavigation=1&view=preview)
 
 
 ## Adding star rating component in your project
