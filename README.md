@@ -29,7 +29,7 @@ Name | Description
 **starCount** | Maximum number of stars for rating 
 **color** | Color of star in rating. Chosen from theme. `primary`, `accent` or `warn` 
 
-## `StarRatingColor` enum from `star-rating.component`
+### `StarRatingColor` enum from `star-rating.component`
 ```typescript
 
 enum StarRatingColor {
