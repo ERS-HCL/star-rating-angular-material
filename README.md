@@ -1,4 +1,4 @@
-#Star Rating component component for Angular Material.
+# Star Rating component component for Angular Material.
 <p align="center">
     <img  alt="Star Rating" src="img/starRating.png" class="img-responsive">
 </p>
