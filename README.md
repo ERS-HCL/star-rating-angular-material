@@ -2,8 +2,8 @@
 <p align="center">
     <img  alt="Star Rating" src="img/starRating.png" class="img-responsive">
 </p>
-To preview demo of to do list project, [Click here](https://stackblitz.com/edit/angular-material-star-rating?embed=1&file=index.html&hideExplorer=1&hideNavigation=1&view=preview)
 
+To preview demo of star rating project, [click here](https://stackblitz.com/edit/angular-material-star-rating?embed=1&file=index.html&hideExplorer=1&hideNavigation=1&view=preview)
 
 ## Adding star rating component in your project
 
@@ -22,12 +22,13 @@ To preview demo of to do list project, [Click here](https://stackblitz.com/edit/
   
 ```  
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+Name | Description
+--- | --- 
+**rating** | Actual rating 
+**starCount** | Maximum number of stars for rating 
+**color** | Color of star in rating. Chosen from theme. `primary`, `accent` or `warn` 
 
-## Color enum
+## `StarRatingColor` enum from `star-rating.component`
 ```typescript
 
 enum StarRatingColor {
